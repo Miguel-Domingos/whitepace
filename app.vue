@@ -17,8 +17,4 @@ import Footer from "@/components/Footer/index.vue";
 * {
   font-family: "Inter";
 }
-
-body {
-  overflow-x: hidden;
-}
 </style>
