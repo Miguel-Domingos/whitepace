@@ -1,6 +1,23 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
+  image: {
+    format: ["webp"],
+  },
+  app: {
+    head: {
+      title: "Whitepace",
+      htmlAttrs: {
+        lang: "en",
+      },
+      meta: [
+        {
+          name: "description",
+          content: "Whitepace, SaaS Landing Page Application",
+        },
+      ],
+    },
+  },
   modules: [
     "@nuxtjs/tailwindcss",
     [
@@ -12,5 +29,6 @@ export default defineNuxtConfig({
         display: "swap",
       },
     ],
+    "@nuxt/image",
   ],
 });

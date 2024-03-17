@@ -21,7 +21,7 @@
         >
       </div>
       <div class="w-[90%] flex justify-center items-center">
-        <img src="@/assets/Fixed.svg" alt="" srcset="" />
+        <img src="@/assets/Fixed.svg" alt="Settings Concept" />
       </div>
     </div>
   </Section>

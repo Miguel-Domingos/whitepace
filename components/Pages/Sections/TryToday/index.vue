@@ -20,9 +20,9 @@
         On a big team? Contact sales
       </span>
       <div class="flex gap-5">
-        <img src="@/assets/icons/apple-logo.svg" alt="" />
-        <img src="@/assets/icons/windows-logo.svg" alt="" />
-        <img src="@/assets/icons/android-logo.svg" alt="" />
+        <img src="@/assets/icons/apple-logo.svg" alt="Apple Logo" />
+        <img src="@/assets/icons/windows-logo.svg" alt="Windows Logo" />
+        <img src="@/assets/icons/android-logo.svg" alt="Android Logo" />
       </div>
     </div>
   </Section>

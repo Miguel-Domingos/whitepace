@@ -1,6 +1,6 @@
 <template>
   <button
-    class="text-sm text-center rounded-lg flex py-3 px-6"
+    class="text-center rounded-lg flex py-3 px-6"
     :class="props.icon?.position ? iconPositionStyle[props.icon?.position] : ''"
   >
     <span v-if="label"> {{ props.label }}</span>

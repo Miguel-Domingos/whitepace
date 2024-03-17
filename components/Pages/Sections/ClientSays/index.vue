@@ -17,7 +17,7 @@
                 that is a full project management solution.</span
               >
             </div>
-            <div class="pt-[60px] flex justify-between items-center gap-4">
+            <div class="pt-[40px] flex justify-between items-center gap-4">
               <div>
                 <div class="rounded-full w-[60px] h-[60px] overflow-hidden">
                   <img src="/luffy.jpg" alt="" />
@@ -49,8 +49,6 @@ import "vue3-carousel/dist/carousel.css";
 import { breakpoints, settingsClientSays } from "@/utils/carossel";
 import Section from "../../Components/Section/index.vue";
 import Heading from "@/components/Heading/index.vue";
-import Button from "@/components/Button/index.vue";
-import SlideShow from "@/components/SlideShow/index.vue";
 </script>
 
 <style scoped>

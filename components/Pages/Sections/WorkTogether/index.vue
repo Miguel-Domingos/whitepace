@@ -23,7 +23,7 @@
       <div
         class="w-full flex justify-center items-center lg:w-[800px] lg:mr-10"
       >
-        <img src="/WorkTogetherImage.svg" alt="" srcset="" />
+        <img src="/WorkTogetherImage.svg" alt="Work Together Image" />
       </div>
     </div>
   </Section>

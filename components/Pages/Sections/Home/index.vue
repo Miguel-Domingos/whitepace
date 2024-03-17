@@ -4,7 +4,7 @@
       <img
         class="opacity-60 scale-[2] md:scale-[1.5] lg:scale-[1] rotate-[50deg] sm:rotate-0"
         src="/wave.svg"
-        alt=""
+        alt="wave background"
       />
     </template>
     <div
@@ -27,7 +27,10 @@
         >
       </div>
       <div class="w-full flex justify-center items-center">
-        <img src="@/assets/Business.png" alt="" srcset="" />
+        <img
+          src="@/assets/Business.png"
+          alt="Employee Working Office Workplace"
+        />
       </div>
     </div>
   </Section>

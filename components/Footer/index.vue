@@ -56,9 +56,9 @@
         <div
           class="flex justify-center sm:justify-start gap-8 w-full lg:w-auto border-t border-[#2E4E73] pt-[20px] lg:pt-0 lg:border-t-0"
         >
-          <img src="/Facebook.svg" alt="" />
-          <img src="/Twitter.svg" alt="" />
-          <img src="/Linkedin.svg" alt="" />
+          <img src="/Facebook.svg" alt="Facebook Logo" />
+          <img src="/Twitter.svg" alt="Twitter Logo" />
+          <img src="/Linkedin.svg" alt="Linkedin Logo" />
         </div>
       </div>
     </div>

@@ -4,7 +4,7 @@
       <img
         src="/BACKGROUND.svg"
         class="translate-y-[-30%] w-[70%] hidden lg:block"
-        alt=""
+        alt="figure background"
       />
     </template>
     <div class="container mx-auto px-4 flex flex-col items-center gap-6">
@@ -27,7 +27,7 @@
       >
     </div>
     <div class="absolute hidden xl:block scale-[0.90] bottom-[-18%] right-0">
-      <img src="@/assets/girl.png" alt="" />
+      <img src="@/assets/girl.png" alt="Girl with tablet" />
     </div>
   </Section>
 </template>

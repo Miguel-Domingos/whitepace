@@ -18,7 +18,10 @@
         >
       </div>
       <div class="w-full flex justify-center items-center">
-        <img src="@/assets/puzzle.png" alt="" srcset="" />
+        <img
+          src="@/assets/puzzle.png"
+          alt="Business Team Putting Together Puzzle"
+        />
       </div>
     </div>
   </Section>

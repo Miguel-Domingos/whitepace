@@ -19,7 +19,7 @@
         >
       </div>
       <div class="w-full flex justify-center items-center">
-        <img src="/Element.svg" alt="" srcset="" />
+        <img src="/Element.svg" alt="Data process" />
       </div>
     </div>
   </Section>

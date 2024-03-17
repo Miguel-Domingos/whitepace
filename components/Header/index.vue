@@ -67,10 +67,10 @@
               <div
                 class="flex justify-center gap-6 flex-wrap items-start mt-6 lg:hidden"
               >
-                <Button class="bg-[#FFE492]">Login</Button>
+                <Button class="bg-[#FFE492] text-[#043873]">Login</Button>
 
                 <Button
-                  class="bg-[#4F9CF9]"
+                  class="bg-[#4F9CF9] text-white"
                   :icon="{ name: 'arrowRight', position: 'right' }"
                   >Try Whitepace free</Button
                 >

@@ -4,7 +4,7 @@
       <img
         src="/Group.svg"
         class="opacity-50 translate-y-[30%] w-[60%] hidden lg:block"
-        alt=""
+        alt="figure background"
       />
     </template>
     <div
@@ -28,7 +28,7 @@
         >
       </div>
       <div class="w-full flex justify-center items-center">
-        <img src="@/assets/project.png" alt="" srcset="" />
+        <img src="@/assets/project.png" alt="Team meeting" />
       </div>
     </div>
   </Section>
