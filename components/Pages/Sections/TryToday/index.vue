@@ -1,5 +1,5 @@
 <template>
-  <Section class="bg-[#043873]">
+  <Section class="bg-[#043873] overflow-hidden">
     <div
       class="container mx-auto px-4 flex flex-col items-start lg:items-center gap-6"
     >
@@ -19,7 +19,7 @@
       <span class="text-xl text-center text-white font-light">
         On a big team? Contact sales
       </span>
-      <div class="flex gap-5">
+      <div class="flex flex-wrap gap-5">
         <img src="@/assets/icons/apple-logo.svg" alt="Apple Logo" />
         <img src="@/assets/icons/windows-logo.svg" alt="Windows Logo" />
         <img src="@/assets/icons/android-logo.svg" alt="Android Logo" />

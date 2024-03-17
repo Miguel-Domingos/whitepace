@@ -1,5 +1,5 @@
 <template>
-  <Section>
+  <Section class="overflow-hidden">
     <div
       class="container mx-auto px-4 flex flex-col items-center gap-6 text-[#212529]"
     >
